@@ -28,6 +28,7 @@
     
     <icon src="icon.png" />
 
+    <gap:splash gap:platform="ios" height="1136" src="res/screen/ios/screen-iphone-portrait-568h-2x.png" width="640" />
     <gap:splash src="images/demo_content/splashscreens/apple-touch-startup-image-320x460.png"   gap:platform="android" gap:qualifier="port-ldpi" />
     <gap:splash src="images/demo_content/splashscreens/apple-touch-startup-image-320x460.png"   gap:platform="android" gap:qualifier="port-mdpi" />
     <gap:splash src="images/demo_content/splashscreens/apple-touch-startup-image-320x460.png"   gap:platform="android" gap:qualifier="port-hdpi" />
